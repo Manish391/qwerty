@@ -1,0 +1,171 @@
+.q {
+    background-color: rgb(240, 194, 201);
+    padding-bottom: 30px;
+    padding-top: 00px;
+    padding-left: 80px;
+    
+    margin-top: -10px;
+
+}
+
+
+.er {
+    background-color: rgb(240, 194, 201);
+    height: 50px;
+
+
+}
+@media screen and (max-width:425px){
+    p{
+        text-align: center;
+    }
+    .q{
+       font-size: 10px; 
+    }
+    .w{
+        font-size: 10px;    
+    }
+    
+}
+
+/* .lk
+{
+    padding-left: 200px;
+    padding-top: 20px;
+} */
+
+.w {
+
+    margin-left: 300px;
+    word-spacing: 40px;
+    text-decoration: none;
+
+}
+
+.u {
+    margin-left: 10px;
+
+}
+
+/* body {
+    margin: 0px;
+} */
+
+.r {
+    background-color: rgb(247, 239, 239);
+    padding-bottom: 30px;
+    padding-left: 200px;
+    /* padding-top: 40px; */
+}
+
+.t {
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(201, 100, 117);
+}
+
+.k {
+    color: grey;
+    font-weight: lighter;
+    font-size: 20px;
+    /* height: 200px; */
+}
+
+.qw {
+    background-color: rgb(197, 197, 60);
+    height: 180px;
+    padding-top: 20px;
+
+}
+
+.r {
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+    margin-top: 100px;
+}
+
+.u {
+
+    display: flex;
+    justify-content: row;
+    column-gap: 200px;
+    padding-left: 285px;
+    padding-top: 20px;
+}
+
+.ad {
+    padding-left: 555px;
+}
+
+.df {
+    background-color: rgb(231, 69, 96);
+    height: 200px;
+}
+
+.qwerty {
+
+    display: flex;
+    flex-direction: row;
+
+    column-gap: 20px;
+    padding-left: 590px;
+    padding-top: 100px;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+.pr {
+    display: inline-block;
+}
+
+.io {
+    display: flex;
+    justify-content: row;
+    column-gap: 175px;
+    padding-left: 285px;
+    padding-top: 20px;
+}
+
+.i {
+    padding-top: 100px;
+}
+
+.p {
+    background-color: rgb(240, 230, 230);
+    height: 220px;
+    display: flex;
+    justify-content: row;
+    margin-top: -10px;
+    /* margin-left: 100px; */
+}
+
+.qwer {
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.op {
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.v {
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+.qwe {
+    color: rgb(248, 30, 103);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.m {
+    margin-left: 220px;
+    margin-top: 40px;
+
+}
